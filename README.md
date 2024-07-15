@@ -5,7 +5,7 @@
     <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);
          color: white; font-size: 30px; font-weight: bold; background-color: rgba(0, 0, 0, 0.5); 
          padding: 10px; font-family: 'Italic', sans-serif;font-style: oblique;">
-      <h3 align="center"> Challenge Literatura Alura </h3> 
+      <h3 align="center"> Challenge Literalura</h3> 
     </div>
 </div>
 
